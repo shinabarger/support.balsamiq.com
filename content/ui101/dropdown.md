@@ -50,6 +50,17 @@ See this [Nielsen Norman Group article about dropdowns](https://www.nngroup.com/
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/dropdown-states.png)
 
+To make this you can first create a ComboBox with the text at the top as States and change the color to gray instead of black.
+Then create a text area below it filled with text like 
+*Popcorn*
+	Caramel
+	Kettle
+	Cheddar
+*Chocolate*
+	M & M
+	Snickers
+*Etc... *
+
 ### Variations
 
 * Categorized (Option Group) Dropdown
